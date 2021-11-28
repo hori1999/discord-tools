@@ -1,6 +1,6 @@
 # discord-tools
-Fast Nuker
+	•Fast Nuker
 
-DDoS Command For Discord Bots
+	•DDoS Command For Discord Bots
 
 They're against TOS , if you got termed not my responsibility.
